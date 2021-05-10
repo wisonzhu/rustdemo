@@ -4,9 +4,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de595de-bcdf-4afc-a1e0-084cb97bf813" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-    </list>
+    <list default="true" id="9de595de-bcdf-4afc-a1e0-084cb97bf813" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <workItem from="1620547228473" duration="209000" />
       <workItem from="1620567077764" duration="133000" />
       <workItem from="1620567337157" duration="827000" />
-      <workItem from="1620660595988" duration="1305000" />
+      <workItem from="1620660595988" duration="1678000" />
     </task>
     <servers />
   </component>
