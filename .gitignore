@@ -10,3 +10,5 @@ Cargo.lock
 **/*.rs.bk
 
 .idea/
+
+.idea/workspace.xml
